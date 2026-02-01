@@ -54,7 +54,7 @@ Follow these steps to run the project locally.
 
 3.  Set up environment variables:
     *   Create a `.env.local` file in the root directory (if not already present).
-    *   Add any necessary API keys (e.g., `GEMINI_API_KEY` for AI features).
+    *   Add any necessary API keys (e.g., `VITE_API_KEY` for backend features).
 
 4.  Run the development server:
     ```bash
